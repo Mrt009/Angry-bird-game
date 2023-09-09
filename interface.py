@@ -67,3 +67,6 @@ class Label(Button):
     def draw(self):
         if self.text:
             display.blit(self.text, self.text_pos)
+            
+
+const pair ="extraordinaire"
